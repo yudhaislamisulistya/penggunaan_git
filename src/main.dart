@@ -1,3 +1,3 @@
 void main() {
-  print("Ini adalah fungsi utama");
+  print("Ini adalah fungsi utama main");
 }
