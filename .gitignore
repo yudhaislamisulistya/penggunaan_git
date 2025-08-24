@@ -1,0 +1,8 @@
+# Mengabaikan file dan direktori tertentu
+history.log
+
+# Mengabaikan file .env
+.env
+
+# Mengabaikan direktori build
+/build/
